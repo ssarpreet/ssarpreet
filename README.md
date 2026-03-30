@@ -1,7 +1,5 @@
 ## <div align="right"> 👋 Hello World! I'm Sarpreet Singh 💻‎‎ </div>‏‏‎
-###### <div align="right"> - 🌐 Double Majoring in Finance and Computer Science @ Rutgers 🚀 </div>
-###### <div align="right"> - 🧠 Love for problem-solving and languages like Java, Python, and C 💡 </div>
-###### <div align="right"> - 🔍 On a quest to learn the mysteries of Data Structures and Algorithms 🤖 </div>
+
 
 <br/>  
 <div align="right">
@@ -22,5 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+###### <div align="right"> - 🌐 Double Majoring in Finance and Computer Science @ Rutgers 🚀 </div>
+###### <div align="right"> - 🧠 Love for problem-solving and languages like Java, Python, and C 💡 </div>
+###### <div align="right"> - 🔍 On a quest to learn the mysteries of Data Structures and Algorithms 🤖 </div>
 
 -->
