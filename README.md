@@ -1,4 +1,4 @@
-## <div align="right"> 👋 Hello World! I'm Sarpreet Singh 💻‎‎ </div>‏‏‎
+## <div align="right"> 👋 Hello World! I'm Sam Singh 💻‎‎ </div>‏‏‎
 
 
 <br/>  
